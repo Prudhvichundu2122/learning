@@ -1,0 +1,16 @@
+Section 2:
+Core concepts:
+	      Cluster Architecture: 
+            Worker node:
+            master:
+            ETCD Cluster:
+            kube-scheduler:
+            controller-manager:
+                    1. node controller:
+                    2. replication controller:
+            kube-apiserver:
+            kubelet:
+            kubeproxy: 
+        Docker Vs ContainerD:
+	          CRI, OCI, dockershim, 
+
