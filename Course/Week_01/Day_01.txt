@@ -1,0 +1,3 @@
+Day 1:
+- Linux basics (filesystem, commands)
+- Practice: ls, cd, cp, mv, rm
