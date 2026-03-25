@@ -1,0 +1,33 @@
+
+🧱 WEEK 1: Linux + Networking Foundations
+
+Day 1:
+- Linux basics (filesystem, commands)
+- Practice: ls, cd, cp, mv, rm
+
+Day 2:
+- Process management
+- Commands: ps, top, kill
+
+Day 3:
+- File permissions & users
+- chmod, chown
+
+Day 4:
+- Networking basics
+- curl, ping, netstat, ss
+
+Day 5:
+- Logs & system debugging
+- /var/log, journalctl
+
+Day 6:
+- Shell scripting basics
+- Write simple automation script
+
+Day 7:
+- Mini task:
+  👉 Script to monitor CPU & log alerts
+
+👉 Outcome:
+You can debug basic server issues
